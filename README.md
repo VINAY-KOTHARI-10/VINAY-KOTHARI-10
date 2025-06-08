@@ -121,14 +121,18 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 
 ## <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/stats.gif" width="35"> GitHub Analytics
 
+### 📈 Contribution Graph:
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<div align="center" style="display: flex; gap: 30px; align-items: center">
+ <img src="https://streak-stats.demolab.com?user=VINAY-KOTHARI-10&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" width="400" alt="Streak Graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINAY-KOTHARI-10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="VINAY-KOTHARI-10" />
+</div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VINAY-KOTHARI-10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-KOTHARI-10&layout=compact&langs_count=8&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VINAY-KOTHARI-10&show_icons=true&locale=en&theme=tokyonight" alt="VINAY-KOTHARI-10" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VINAY-KOTHARI-10&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="streak stats"/>
-</div>
+<br>
 
 ---
 
