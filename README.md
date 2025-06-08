@@ -10,8 +10,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VINAY-KOTHARI-10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/VINAY-KOTHARI-10?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/VINAY-KOTHARI-10?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ---
@@ -142,17 +140,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VINAY-KOTHARI-10&layout=compact&theme=tokyonight&langs_count=8" alt="WakaTime Stats" />
 </div>
 
-### 📊 Weekly Development Breakdown
-```text
-💻 Programming Languages:
-C++          ████████████░░░  75%
-Python       ██████░░░░░░░░░░  40%
-JavaScript   ████░░░░░░░░░░░░  25%
-Java         ███░░░░░░░░░░░░░  20%
-Other        ██░░░░░░░░░░░░░░  15%
-```
-
----
 
 <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/divider.gif" width="100%">
 
@@ -226,5 +213,4 @@ Other        ██░░░░░░░░░░░░░░  15%
   
   *Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VINAY-KOTHARI-10)
 </div>
