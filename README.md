@@ -51,15 +51,6 @@ currently_learning: ["C++ DSA", "Blockchain Technology"]
 hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 ```
 
-**🔭 Currently working on:** Myself and various coding projects  
-**🌱 Currently learning:** C++ DSA and Blockchain technology  
-**👨‍💻 Projects:** [My Projects](https://github.com/VINAY-KOTHARI-10)  
-**💬 Ask me about:** Python, C, C++, Java, Data Structures, Blockchain  
-**📫 Reach me:** vvkothari0046@gmail.com  
-**⚡ Fun fact:** A coding enthusiast passionate about blockchain & algorithms!
-
----
-
 <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/divider.gif" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/tech-stack.gif" width="35"> Tech Stack & Tools
