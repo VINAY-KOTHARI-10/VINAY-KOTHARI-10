@@ -53,7 +53,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 
 **🔭 Currently working on:** Myself and various coding projects  
 **🌱 Currently learning:** C++ DSA and Blockchain technology  
-**👨‍💻 Portfolio:** [My Projects](https://github.com/VINAY-KOTHARI-10)  
+**👨‍💻 Projects:** [My Projects](https://github.com/VINAY-KOTHARI-10)  
 **💬 Ask me about:** Python, C, C++, Java, Data Structures, Blockchain  
 **📫 Reach me:** vvkothari0046@gmail.com  
 **⚡ Fun fact:** A coding enthusiast passionate about blockchain & algorithms!
