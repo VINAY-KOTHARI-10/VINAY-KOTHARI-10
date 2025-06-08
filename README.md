@@ -28,19 +28,18 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/coding.gif">
+<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/coding.gif">
 
 ```yaml
 name: Vinay Kothari
 located_in: India
 current_focus: Self Development & Learning
-education: ["Computer Science", "Data Structures & Algorithms"]
+education: ["Computer Science"]
 
 fields_of_interests:
   - "Blockchain Technology"
   - "Full Stack Development" 
   - "Data Structures & Algorithms"
-  - "System Design"
   
 technical_background:
   - "C/C++ Programming"
@@ -48,7 +47,7 @@ technical_background:
   - "Web Technologies"
   - "Database Management"
   
-currently_learning: ["C++ DSA", "Blockchain Technology", "System Design"]
+currently_learning: ["C++ DSA", "Blockchain Technology"]
 hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 ```
 
@@ -120,8 +119,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/divider.gif" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/stats.gif" width="35"> GitHub Analytics
-
-### 📈 Contribution Graph:
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div align="center" style="display: flex; gap: 30px; align-items: center">
