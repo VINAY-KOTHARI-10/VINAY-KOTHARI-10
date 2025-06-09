@@ -116,9 +116,9 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
  <img src="https://streak-stats.demolab.com?user=VINAY-KOTHARI-10&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" width="400" alt="Streak Graph"  />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINAY-KOTHARI-10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="VINAY-KOTHARI-10" />
 </div>
-<div align="center">
+<!-- <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VINAY-KOTHARI-10&show_icons=true&locale=en&theme=tokyonight" alt="VINAY-KOTHARI-10" />
-</div>
+</div> -->
 
 <br>
 
