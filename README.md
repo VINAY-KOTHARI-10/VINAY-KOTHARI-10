@@ -135,7 +135,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 
 <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/divider.gif" width="100%">
 
-## 📈 Contribution Activity
+<!-- ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINAY-KOTHARI-10&radius=16&theme=radical&area=true&order=5" height="300" alt="activity-graph" />
@@ -144,7 +144,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ---
 
